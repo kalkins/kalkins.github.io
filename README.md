@@ -13,4 +13,5 @@ to learn a new programming language, which is why you'll see a couple different 
 
 [ntnu]: http://www.ntnu.no
 [computer science]: http://www.ntnu.edu/studies/mtdt
-[rust]: java_chess
+[rust]: rust_chess
+[java]: java_chess
