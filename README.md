@@ -13,7 +13,7 @@ To see my actual Github profile, click [here][github].
 * [What am I working towards?](#what-am-i-working-towards)
     * [More chess](#more-chess)
     * [Escape room](#escape-room)
-    * [My own computer](#my-own-computer)
+    * [Building my own computer](#my-own-computer)
 
 
 ## Who am I?
@@ -75,7 +75,7 @@ Currently I'm planning to do it in python, c/c++, javascript (web version), Go, 
 I'll continue to work on the escape room, and I'll be making many more puzzles. I want to try to go out of my comfort zone,
 and learn something about an area I have no previous knowledge of.
 
-### My own computer
+### Building my own computer
 This is my most ambitious and long-term plan. I want to build a computer, from scratch using only logic gates and such, and
 write an operating system for it. I'm very interested in the inner workings of computers and low level computer electronics,
 and I think this is just the right project learn all of that.
