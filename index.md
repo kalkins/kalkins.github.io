@@ -21,7 +21,8 @@ To see my actual Github profile, click [here][github].
 
 
 ## About me
-I'm a student currently studying [Computer Science][] at the [Norwegian University of Science and Technology][ntnu](NTNU).
+My name is Sindre Stephansen, I'm 19 years old, and I'm currently studying [Computer Science][] at the
+[Norwegian University of Science and Technology][ntnu](NTNU).
 I've always liked programming, and had a few personal projects even before I started studying. I like to program chess
 to learn a new programming language, which is why you'll see a couple different chess projects on my profile, like for
 [rust][] and [java][].
@@ -65,10 +66,15 @@ nice to have some experience with it. Ultimatly I didn't need it at all, but it'
 ## Current projects
 
 ### Bispehaugen.no
-This is the website for the marching/concert band I'm playing in. When I joined in the autumn of 2016 I was the only one
+[This is the website][buk-django] for the marching/concert band I'm playing in. I'm also writing a
+[developer guide][buk-wiki](only in norwegian), to help future developers of the site to understand how it works.
+
+When I joined the marching band in the autumn of 2016 I was the only one
 there that knew anything about websites, so I was immediately promoted to website developer and sysadmin. Since then I've
 made some improvements to the old PHP-based site, and started to make the whole thing again from scratch in [Django][].
 
+[buk-django]: https://github.com/kalkins/buk-django
+[buk-wiki]: https://github.com/kalkins/buk-django/wiki
 [django]: https://www.djangoproject.com
 
 
