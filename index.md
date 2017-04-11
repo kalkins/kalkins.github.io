@@ -28,7 +28,7 @@ to learn a new programming language, which is why you'll see a couple different 
 On my spare time I'm playing the clarinet in [Bispehaugen Ungdomskorps][buk], where I'm also responsible for the webpage
 and server.
 
-I'm also a member of [Hackerspace NTNU], which is a student driven organization that gives students access to technology they
+I'm also a member of [Hackerspace NTNU][hs], which is a student driven organization that gives students access to technology they
 wouldn't otherwise have, like 3D-printing and VR-headsets. We also teach courses in arduino, rasberry pi, soldering, and more.
 I'm currently a part of a subgroup of hackerspace that's building an escape room, where we have many puzzles created with the
 technology we have learnt at hackerspace.
@@ -38,13 +38,14 @@ technology we have learnt at hackerspace.
 [rust]: https://www.github.com/kalkins/rust_chess
 [java]: https://www.github.com/kalkins/java_chess
 [buk]: https://bispehaugen.no
+[hs]: http://hackerspace-ntnu.no/
 
 
 ## What have I done?
 I've been working on a few projects the last year. Here are a some you might find interesting.
 
 ### Chess in Rust
-[This is the first of the chess games](rust). I had heard some good things about rust, and I wanted to give it a try.
+[This is the first of the chess games][rust]. I had heard some good things about rust, and I wanted to give it a try.
 After looking through some introductory tutorials I wanted to combine everything I had learnt about the language, and
 see how the different parts worked together. To do this i chose to implement chess. You may not have thought about it,
 but chess has a lot of rules that can be hard to program, and the best way to program it changes based on what features
@@ -52,7 +53,7 @@ the language you are using provides you. It turned out to be both challenging an
 language. After that I wanted to implement chess in other languages, to learn them and to see their differences.
 
 ### Chess in Java
-[This was originally an assignment](java) in object oriented programming. The task was actually to implement Tic-tac-toe,
+[This was originally an assignment][java] in object oriented programming. The task was actually to implement Tic-tac-toe,
 [Sokoban][], or a game of my choosing with similar complexity to those. I, of course, made a chess game. This time I used
 JavaFX for the visual representation of the game, because that's what they tought in the course, and I thought it would be
 nice to have some experience with it. Ultimatly I didn't need it at all, but it's nice to have learnt it anyway.
