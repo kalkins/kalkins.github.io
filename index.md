@@ -66,12 +66,12 @@ nice to have some experience with it. Ultimatly I didn't need it at all, but it'
 # Current projects
 
 ## Bispehaugen.no
-[This is the website][buk-django] for the marching/concert band I'm playing in. I'm also writing a
-[developer guide][buk-wiki](only in norwegian), to help future developers of the site to understand how it works.
-
+[This is the website][buk] for the marching/concert band I'm playing in.
 When I joined the marching band in the autumn of 2016 I was the only one
 there that knew anything about websites, so I was immediately promoted to website developer and sysadmin. Since then I've
 made some improvements to the old PHP-based site, and started to make the whole thing again from scratch in [Django][].
+The project for the new website can be found [here][buk-django], and a developer guide and documentation (in norwegian)
+[here][buk-wiki].
 
 [buk-django]: https://github.com/kalkins/buk-django
 [buk-wiki]: https://github.com/kalkins/buk-django/wiki
