@@ -8,18 +8,19 @@ To see my actual Github profile, click [here][github].
 [github]: https://github.com/kalkins
 
 
-* [Who am I?](#who-am-i)
-* [What have I done?](#what-have-i-done)
+* [About me](#about-me)
+* [Previous projects](#previous-projects)
     * [Chess in Rust](#chess-in-rust)
     * [Chess in Java](#chess-in-java)
+* [Current projects](#current-projects)
     * [Bispehaugen.no](#bispehaugen.no)
-* [What am I working towards?](#what-am-i-working-towards)
+* [Plans for the future](#plans-for-the-future)
     * [More chess](#more-chess)
     * [Escape room](#escape-room)
     * [Building my own computer](#my-own-computer)
 
 
-## Who am I?
+## About me
 I'm a student currently studying [Computer Science][] at the [Norwegian University of Science and Technology][ntnu](NTNU).
 I've always liked programming, and had a few personal projects even before I started studying. I like to program chess
 to learn a new programming language, which is why you'll see a couple different chess projects on my profile, like for
@@ -41,8 +42,8 @@ technology we have learnt at hackerspace.
 [hs]: http://hackerspace-ntnu.no/
 
 
-## What have I done?
-I've been working on a few projects the last year. Here are a some you might find interesting.
+## Previous projects
+I've been working on a few projects the last years. Here are a some you might find interesting.
 
 ### Chess in Rust
 [This is the first of the chess games][rust]. I had heard some good things about rust, and I wanted to give it a try.
@@ -60,6 +61,9 @@ nice to have some experience with it. Ultimatly I didn't need it at all, but it'
 
 [sokoban]: https://en.wikipedia.org/wiki/Sokoban
 
+
+## Current projects
+
 ### Bispehaugen.no
 This is the website for the marching/concert band I'm playing in. When I joined in the autumn of 2016 I was the only one
 there that knew anything about websites, so I was immediately promoted to website developer and sysadmin. Since then I've
@@ -68,7 +72,7 @@ made some improvements to the old PHP-based site, and started to make the whole 
 [django]: https://www.djangoproject.com
 
 
-## What am i working towards?
+## Plans for the future
 This is my plans for future projects. Some are fun small side-projects, while other are large and may take years.
 
 ### More chess
