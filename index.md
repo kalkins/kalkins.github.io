@@ -13,11 +13,11 @@ To see my actual Github profile, click [here][github].
     * [Chess in Rust](#chess-in-rust)
     * [Chess in Java](#chess-in-java)
 * [Current projects](#current-projects)
-    * [Bispehaugen.no](#bispehaugen.no)
+    * [Bispehaugen](#bispehaugen)
 * [Plans for the future](#plans-for-the-future)
     * [More chess](#more-chess)
     * [Escape room](#escape-room)
-    * [Building my own computer](#my-own-computer)
+    * [Building my own computer](#building-my-own-computer)
 
 
 # About me
@@ -65,7 +65,7 @@ nice to have some experience with it. Ultimatly I didn't need it at all, but it'
 
 # Current projects
 
-## Bispehaugen.no
+## Bispehaugen
 [This is the website][buk] for the marching/concert band I'm playing in.
 When I joined the marching band in the autumn of 2016 I was the only one
 there that knew anything about websites, so I was immediately promoted to website developer and sysadmin. Since then I've
